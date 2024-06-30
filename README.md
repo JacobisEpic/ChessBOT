@@ -19,7 +19,7 @@ Chess Bot is an interactive chess game engine crafted with Python and Pygame. De
    cd ChessBOT
 2. Install the required packages:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 ## How to Play
