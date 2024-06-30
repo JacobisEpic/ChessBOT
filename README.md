@@ -11,6 +11,10 @@ Chess Bot is an interactive chess game engine crafted with Python and Pygame. De
 - **Engaging Gameplay**: Suitable for players with an ELO rating of 900-1200.
 - **Interactive UI**: Built with Pygame, offering a smooth user experience.
 
+## Algorithms Used
+-  **Negamax Algorithm**: A variant of the minimax algorithm, optimized for two-player games like chess.
+-  **Alpha-Beta Pruning**: Reduces the number of nodes evaluated in the search tree, enhancing performance.
+
 ## Installation
 
 1. Clone the repository:
@@ -20,7 +24,6 @@ Chess Bot is an interactive chess game engine crafted with Python and Pygame. De
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
-
 
 ## How to Play
 
